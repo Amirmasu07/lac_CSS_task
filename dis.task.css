@@ -1,0 +1,15 @@
+.box{
+    display: inline-block;
+    width: 375px;
+    border: 0px solid white;
+}
+img{
+    width: 360px;
+    display: inline-block;
+
+}
+.coanteiner{
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    
+}
