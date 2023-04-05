@@ -1,0 +1,10 @@
+.box{
+    display: inline-block; 
+    width: 372px;
+}
+.container{
+    width: 1512px;
+}
+img{
+    width: 100%;
+}
